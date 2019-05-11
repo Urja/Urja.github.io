@@ -1,14 +1,7 @@
-title: Urja Ramanandi
+title:  Urja Ramanandi
 logo: "/images/logo.png?raw=true"
-description:  # your text below (remove <br> elements if you don't need line breaks)
-  IT experience in the development/management/mentoring.
-
-  Responsibilities in all phases of software development life cycle including Analysis, Design, Development, Testing, Implementation, Support and Training.
-  <br><br>
- Specialties:Web architecture and development.
-
-  Domain : E-Commerce , CRM,Procurement, Healthcare, Finance (Credit bureau)
-  <br><br>
+description:  IT experience in the development/management/mentoring.Responsibilities in all phases of software development life cycle including Analysis, Design, Development, Testing, Implementation, Support and Training.
+  <br><br>Specialties:Web architecture and development.<br>Domain : E-Commerce , CRM,Procurement, Healthcare, Finance (Credit bureau)<br><br>
   <a href="https://www.linkedin.com/in/urjaramanandi/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-hacker
+theme:  jekyll-theme-hacker
